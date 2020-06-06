@@ -5,7 +5,7 @@ cmd = {
     "add":"git add .",
     "commit": "git commit -m ",
     "push": "git push https://aritra1999:abc*9051889339@github.com/aritra1999/" + repo_name + ".git master",
-    "push": "git pull https://aritra1999:abc*9051889339@github.com/aritra1999/" + repo_name + ".git master",
+    "pull": "git pull https://aritra1999:abc*9051889339@github.com/aritra1999/" + repo_name + ".git master",
     "chckout": "git checkout", 
     "remote": "git remote -v",
     "status": "git status"
